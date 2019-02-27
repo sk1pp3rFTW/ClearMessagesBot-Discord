@@ -12,10 +12,10 @@ const Discord = require('discord.js');
 const bot = new Discord.Client();
 
 // Token of my bot
-const token = 'MjMxMjk3Mzg3OTU4NzYzNTIw.CtaOnA.eiqE_DIaS2hHW_c-k4jWLHR1Eu8';
+const token = 'NTUwNDAyNTY0MTM1MzIxNjAw.D1h9_Q.3hwy_aNp2fEE3sc0vi6qeY9-92A';
 
 bot.on('ready', () => {
-  console.log('ClearMessagesBot is Ready!');
+  console.log('PelicanClearBot is Ready!');
   bot.on('message', message => {
     if (message.content == CLEAR_MESSAGES) {
 
