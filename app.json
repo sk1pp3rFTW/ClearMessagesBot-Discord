@@ -1,7 +1,7 @@
 {
-  "name": "Clear Messages Bot for Discord",
+  "name": "PelicanClearBot",
   "description": "A simple bot to clear/delete all messages of a Discord channel ",
-  "repository": "https://github.com/praneetsharma/ClearMessagesBot-Discord",
+  "repository": "https://github.com/sk1pp3rFTW/PelicanClearBot",
   "logo": "http://node-js-sample.herokuapp.com/node.svg",
   "keywords": ["discord", "delete", "clear"]
 }
