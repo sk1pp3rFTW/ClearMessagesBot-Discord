@@ -8,7 +8,7 @@ The bot clears/deletes all the messages on a particular channel. The command for
 
 #### Deploy Automatically
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/praneetsharma/ClearMessagesBot-Discord)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sk1pp3rftw/PelicanClearBot)
 
 Note - Go to the heroku app page and change the running dyno from web to worker.
 
